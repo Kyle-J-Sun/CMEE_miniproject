@@ -1,0 +1,25 @@
+Body temperature plays an essential role of influence on 
+ectotherm's performance, by affecting related metabolic 
+traits rate (e.g. photosynthetic, respiration and growth 
+rate). Higher temperature may have a stronger change in 
+these metabolic rates, so that the performence of species 
+may be maximized. Extreme temperature may also deteriorate 
+their performence dramatically (Huey and Kingsolver, 1989) Therefore, research on 
+the relationship between biological traits and body 
+temperature has been becoming increasingly necessary. 
+The introduction of Thermal Performence Curves, referred as 
+TPC below, gives a neat solution to decribe the relationship quantitively because
+of its three significant properites. Firstly, TPC has a single
+maximum point (Thermal optimum $T_0$) can offer a point of 
+estimated temperature where the organisms have a optimal 
+performance. (Huey and Kingsolver, 1989) Secondly, TPC can provide a range of temperature
+points that organisms performed well, referred to 'Performance breadth'. (Huey and Stevenson, 1979)
+Finally, it can also give a range of temperature points where the species
+have a diminished performance, known as “tolerance zone". (Huey and Kingsolver, 1989) 
+Afterwards, in order to have a better study in this area, 
+many authors also implemented numbers of models for 
+catching the changing trends of the thermal 
+performence curves.  However, fitting the models became a 
+complicated thing since many models are too complex to fit
+by hand. Hence, this problem causes the combination between
+programming tools and modeling of the TPC. 
