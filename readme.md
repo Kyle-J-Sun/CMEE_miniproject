@@ -1,4 +1,11 @@
 # CMEE Coursework MiniProject
+
+__Author:__ Jingkai Sun
+
+__Date:__ 2021.01.22
+
+__Email:__ jingkai.sun20@imperial.ac.uk
+
 ## Assignment Description:
 - The week8 and Week9 coursework for CMEE students at IC including: MiniProject
 - Code Directory:
