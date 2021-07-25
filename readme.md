@@ -2,7 +2,7 @@
 
 __Author:__ Jingkai Sun
 
-__Date:__ 2021.01.22
+__Date:__ 2021.01.22 (Updated)
 
 __Email:__ jingkai.sun20@imperial.ac.uk
 
@@ -13,6 +13,7 @@ __Email:__ jingkai.sun20@imperial.ac.uk
     - model_fitting.py: This includes all functions needed for model fitting
     - model_analysis.R: This is the R script that clean the fitted information after model fitting is done
     - run_MiniProject.py: to run the whole model fitting program in this script.
+    
 ## Usage:
 - In order to run all the scripts, Python 3 and R should be installed.
 - All scripts in the code directory must be in the same directory for successful running.
